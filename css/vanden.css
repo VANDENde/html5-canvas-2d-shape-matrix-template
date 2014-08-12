@@ -1,0 +1,84 @@
+.fullscreen {
+    position: fixed;
+    left:0px;
+    top:0px;
+    width:100%;
+    height:100%;
+}
+
+.gamecanvasstyle {
+	border: 1px solid #333;
+    margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+    position:relative;
+}
+
+#master {
+    width: 100%;
+    height: 100%;
+}
+
+   .l {
+            left:0%;
+            top:60%;
+            width: 20%;
+            height: 40%;
+            position: absolute;
+        }
+
+        .c {
+            left:20%;
+            top:0%;
+            width: 60%;
+            height: 100%;
+            position: absolute;
+        }
+
+           .r {
+            left:80%;
+            top:60%;
+            width: 20%;
+            height: 40%;
+            position: absolute;
+        }
+
+#left {
+    width: 49%;
+    height:64px;
+}
+
+#right {
+    width: 49%;
+    height:64px;
+}
+
+#up {
+    width: 99%;
+    height:64px;
+}
+
+#down {
+    width: 99%;
+    height:64px;
+}
+
+#btnl {
+    width: 49%;
+    height:64px;
+}
+
+#btnr {
+    width: 49%;
+    height:64px;
+}
+
+#btnt {
+    width: 99%;
+    height:64px;
+}
+
+#btnd {
+    width: 99%;
+    height:64px;
+}
